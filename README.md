@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 
    - Go to the [Firebase Console](https://console.firebase.google.com/).
    - Create a new project.
-   <!-- - Add an Android/iOS app to your Firebase project and follow the instructions to download the `google-services.json` or `GoogleService-Info.plist` file.
+   <!-- - Add an Android/iOS app to your Firebase project and follow the instructions to download the `google-services.json` or `GoogleService-Info. list` file.
    - Place the `google-services.json` file in the `android/app` directory.
    - Place the `GoogleService-Info.plist` file in the `ios/Runner` directory.
    - Enable Firebase Authentication, Firestore, and Firebase Cloud Messaging in the Firebase Console. -->
